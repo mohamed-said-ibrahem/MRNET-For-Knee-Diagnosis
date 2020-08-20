@@ -35,4 +35,4 @@ The model achieved a sensitivity of 0.879 (95% CI 0.800, 0.929) and accuracy of 
 The model was highly specific for ACL tear detection, achieving a specificity of 0.968.
 
 # Tools Used
-Keras, Google Colab, PYTHON 3
+Keras, Google Colab.
